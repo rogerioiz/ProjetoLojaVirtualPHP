@@ -1,0 +1,7 @@
+root {
+    --primary-color: red;
+}
+
+p {
+    color: var(--primary-color);
+}
